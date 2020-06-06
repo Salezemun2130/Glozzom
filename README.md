@@ -1,3 +1,3 @@
 # 3.-Glozzom-Multi-Page
  
-Bootstrap Lesson Three
+Bootstrap Project Three
